@@ -1,5 +1,5 @@
       ******************************************************************
-      * Author: Tyler Beown
+      * Author: Tyler
       * Date: 9/18/2017
       * Purpose: create a sales report form file PR2FA17.txt
       * Tectonics: cobc -xo PROJECT2.exe --std=mf  PROJECT2.cbl
