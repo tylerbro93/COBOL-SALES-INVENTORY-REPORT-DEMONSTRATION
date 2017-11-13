@@ -1,0 +1,31 @@
+00001Henry Chiropractic Assoc A02     Adult Walker  00507925
+00004Ashral’s Acupuncture     A02     Adult Walker  00207925
+00008Yari’s Medical Supplies  A02     Adult Walker  01007925
+00001Henry Chiropractic Assoc A03     Shower Chair  00602525
+10000Chiropractic Assoc       A03     Shower Chair  00302525
+00007Kyrianne’s Health Shak   A04     Shower Rail   01002275
+00001Henry Chiropractic Assoc A04     Shower Rail   00502275
+10000Chiropractic Assoc       A04     Shower Rail   00802275
+00008Yari’s Medical Supplies  A04     Shower Rail   00302275
+00008Yari’s Medical Supplies  A05     Bedside Table 10011099
+00010Jason’s Healthy Living   A05     Bedside Table 15011099
+00006Martha’s Vitamin’s & MoreA05     Bedside Table 01011099
+00008Yari’s Medical Supplies  F01     Allergen Bar  75000500
+00010Jason’s Healthy Living   F01     Allergen Bar  55000500
+00006Martha’s Vitamin’s & MoreF01     Allergen Bar  21000500
+00010Jason’s Healthy Living   F04     Protein Shake 15000985
+00003Haven’s Medical Shop     F04     Protein Shake 30000985
+00003Haven’s Medical Shop     F05     Sugar Substitu30000250
+00010Jason’s Healthy Living   F05     Sugar Substitu15000250
+00003Haven’s Medical Shop     F05     Sugar Substitu30000250
+00006Martha’s Vitamin’s & MoreF05     Sugar Substitu21000250
+00006Martha’s Vitamin’s & MoreV01     A 100mg 100Cap21001395
+00009Soapy’s Emporium         V01     A 100mg 100Cap11201395
+00011Vitamin’s Galore         V01     A 100mg 100Cap10001395
+00006Martha’s Vitamin’s & MoreV02     B 100mg 250Cap21001679
+00005TJ’s Pagan Supplies      V02     B 100mg 250Cap22501679
+00009Soapy’s Emporium         V02     B 100mg 250Cap11201679
+00011Vitamin’s Galore         V02     B 100mg 250Cap10001679
+00006Martha’s Vitamin’s & MoreV03     C 100mg 300Cap21001275
+00005TJ’s Pagan Supplies      V03     C 100mg 300Cap22501275
+00009Soapy’s Emporium         V03     C 100mg 300Cap11201275
