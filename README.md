@@ -1,4 +1,4 @@
-COBOL SALES INVENTORY REPORT DEMONSTRATION![Creator](https://img.shields.io/badge/Created%20By-Tyler%20Brown-blue.svg)
+COBOL SALES INVENTORY REPORT DEMO ![Creator](https://img.shields.io/badge/Created%20By-Tyler%20Brown-blue.svg)
 ======================
 
 This project demonstrates creating a sales report from PR2FA17.TXT
@@ -16,6 +16,9 @@ the entire company in all inventory sales and cash in-flow.
 * Prod-Name
 * Qty-Sold
 * Cost-Per-Item
+
+# File Structure
+![alt text](FILE-LAYOUT.PNG "PR2F17.txt")
 
 # INFO
 
