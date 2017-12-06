@@ -18,7 +18,7 @@ the entire company in all inventory sales and cash in-flow.
 * Cost-Per-Item
 
 # File Structure
-![alt text](FILE-LAYOUT.PNG "PR2F17.txt")
+![alt text](file structure.PNG "PR2F17.txt")
 
 # INFO
 
