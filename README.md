@@ -20,7 +20,19 @@ the entire company in all inventory sales and cash in-flow.
 # File Structure
 ![alt text](file%20structure.PNG "PR2F17.txt")
 
+# Usage
+This is useful to help display how many sales an item got from store. By knowing this adminstration can plan out how much should be shipped to certain stores and understand how geography plays a role in the sales of certain items.
+
+# Author
+* [tylerbro93](https://github.com/tylerbro93/)
+
+# License
+This project is created under the [MIT License](./LICENSE)
+
 # INFO
+* This project can be modified and used for free
+* Give credit if used
+* *See GitHub:* https://github.com/tylerbro93/
 
-*See GitHub:* https://github.com/tylerbro93/
-
+# Project Flow Layout
+![alt text](/flowchart/flowchart.PNG "flowchart")
