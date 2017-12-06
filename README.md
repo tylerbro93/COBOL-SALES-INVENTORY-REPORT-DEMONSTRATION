@@ -1,4 +1,5 @@
-# COBOL-SALES-INVENTORY-REPORT-DEMONSTRATION
+COBOL SALES INVENTORY REPORT DEMONSTRATION![Creator](https://img.shields.io/badge/Created%20By-Tyler%20Brown-blue.svg)
+======================
 
 This project demonstrates creating a sales report from PR2FA17.TXT
 and then creates SALES REPORT.txt which displays data on how many
